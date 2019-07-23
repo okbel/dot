@@ -1,3 +1,3 @@
-hello() {
-  expr "Hola" + "$1"
+add() {
+  expr "$1" + "$2"
 }
